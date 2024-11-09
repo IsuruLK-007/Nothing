@@ -1,0 +1,14 @@
+{
+  "BOT_NAME": "MACTRIX-MD",
+  "VERSION": "1.0.0",
+  "CREATER": "Isuru Chamika",
+
+  "imagesDB": {
+      "mainLogo": "https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/MAIN-LOGO%E2%95%BA%20Ultra.jpg",
+      "ytSearchLogo": "https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/MACTRIX-MD_YT-SEARCH.jpg",
+      "movieSearchLogo": "https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/MACTRIX-MD_MOVIE-SEARCH.jpg",
+      "systemInfoLogo": "https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/MACTRIX-MD_SYSTEM-INFO.jpg",
+      "cmdMenuLogo": "https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/MACTRIX-MD_CMD-LIST.jpg",
+      "thumbLogo": "https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/MACTRIX-MD_SQUARE-LOGO.jpg"
+ }
+}
