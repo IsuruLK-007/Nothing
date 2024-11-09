@@ -1,0 +1,40 @@
+{
+  "Bot-Name": "MACTRIX-MD",
+  "botVersion": "1.0.0",
+  "Bot-Developer": "Isuru Chamika",
+
+  "replyMessagesDB": {
+        "disableCmd_EN": "This command has been disabled by the *Developer* due to some bug. 🙂💔",
+        "disableCmd_SI": "කිසියම් දෝෂයක් හේතුවෙන් මෙම විධානය *සංවර්ධකයා* විසින් අක්‍රීය කර ඇත. 🙂💔",
+
+        "emptyUrl_EN": "Please enter a link! ⁉️",
+        "emptyUrl_SI": "කරුණාකර සබැඳියක් ඇතුළු කරන්න! ⁉️",
+
+        "emptyQuery_EN": "Please enter a any query! ⁉️",
+        "emptyQuery_SI": "කරුණාකර ඕනෑම විමසුමක් ඇතුළත් කරන්න! ⁉️",
+
+        "invalidUrl_EN": "The link you entered is invalid! Please enter a valid link. ❗🤕",
+        "invalidUrl_SI": "ඔබ ඇතුළත් කළ සබැඳිය වලංගු නැත! කරුණාකර වලංගු සබැඳියක් ඇතුළත් කරන්න. ❗🤕",
+
+        "emptyResult_EN": "Any result not found.",
+        "emptyResult_SI": "ජ්ශ්විව්හ්ස්ජ්ශ්ශග්",
+
+        "tagImg_EN": "kshsjshsshshsh",
+        "tagImg_SI": "ජ්ශ්ස්ජ්ශ්ස්ජ්",
+
+        "emptyImg_EN": "jsjdishsjsjs",
+        "emptyImg_SI": "ඩිඩිද්ඩ්ජ්ද්ඩ්",
+
+        "emptyMessage_EN": "ksbsjsjsj",
+        "emptyMessage_SI": "ක්ස්න්ස්ක්ස්බ්ස්ජ්",
+
+        "emptyApiKey_EN": "jwjsjsj",
+        "emptyApiKey_SI": "ක්ස්ජ්ස්ජ්ජ්ස්ක්ස්ජ්ස්",
+
+        "numReplyMsg_EN": "`Please click the button below and select the type you want.`",
+        "numReplyMsg_SI": "`කරුණාකර පහත බොත්තම ක්ලික් කර ඔබට අවශ්‍ය වර්ගය තෝරන්න.`",
+
+        "notFoundMsg_EN": "Can't find enything!!",
+        "notFoundMsg_SI": "එඋශ්ශ්ශ්ශ්ශ්ශ්"
+  }
+}
