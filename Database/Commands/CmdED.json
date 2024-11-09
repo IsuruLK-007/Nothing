@@ -1,0 +1,23 @@
+{
+  "BOT_NAME": "MACTRIX-MD",
+  "VERSION": "1.0.0",
+  "CREATER": "Isuru Chamika",
+
+  "isCmdSystem": {
+        "isAliveCmd_ON": "true",
+        "isMenuCmd_ON": "true",
+        "isSystemCmd_ON": "true",
+        "isScriptCmd_ON": "true",
+        "isYtVideodlCmd_ON": "true",
+        "isYtSongdlCmd_ON": "true",
+        "isFbVideodlCmd_ON": "true",
+        "isTiktokdlCmd_ON": "true",
+        "isGdrivedlCmd_ON": "true",
+        "isMediaFiredlCmd_ON": "true",
+        "isThreadsdlCmd_ON": "false",
+        "isApkdlCmd_ON": "true",
+        "isGptOneCmd_ON": "true",
+        "isGptTwoCmd_ON": "true",
+        "isSinhalaSubdlCmd_ON": "true"
+  }
+}

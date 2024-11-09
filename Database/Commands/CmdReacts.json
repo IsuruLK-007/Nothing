@@ -1,0 +1,169 @@
+{
+  "BOT_NAME": "MACTRIX-MD",
+  "VERSION": "1.0.0",
+  "CREATER": "Isuru Chamika",
+
+  "isDLCmdReacts": {
+     "isYtSong": {
+
+       "isMain": {
+        "isBefore": "🔎",
+        "isAfter": "🎶"
+       },
+       "isAudio": {
+         "isBefore": "📥",
+         "isAfter": "📤"
+       },
+       "isDocument": {
+         "isBefore": "📥",
+         "isAfter": "📤"
+       }
+     },
+
+     "isYtVideo": {
+
+       "isMain": {
+         "isBefore": "🔎",
+         "isAfter": "🎥"
+       },
+       "isVideo": {
+         "twoP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "threeP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "fourP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "sevenP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "tenP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          }
+       },
+       "isDocument": {
+         "twoP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "threeP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "fourP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "sevenP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "tenP": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          }
+       }
+     },
+    
+     "isFbVideo": {
+     
+       "isMain": {
+          "isBefore": "🎉",
+          "isAfter": "🎬"
+       },
+       "isVideo": {
+         "SD": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          },
+         "HD": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+          } 
+        },
+       "isAudio": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         }     
+     },
+    
+     "isTiktokVideo": {
+     
+       "isMain": {
+          "isBefore": "⭐",
+          "isAfter": "🎬"
+       },
+       "isVideo": {
+         "isWithWM": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         },
+         "isWithoutWM": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+         }            
+       },                                    
+       "isAudio": {
+          "isBefore": "📥",
+          "isAfter": "📤"
+       }     
+     },
+
+     "isThread": {
+     
+       "isMain": {
+          "isBefore": "⚖️",
+          "isAfter": "🧩"
+       }
+     },
+
+     "isMediaFire": {
+     
+       "isMain": {
+          "isBefore": "📁",
+          "isAfter": "📥"
+       }
+     },
+
+     "isGDrive": {
+     
+       "isMain": {
+          "isBefore": "📁",
+          "isAfter": "📥"
+       }
+     },
+
+     "isApk": {
+     
+       "isMain": {
+          "isBefore": "📦",
+          "isAfter": "📥"
+       }
+     }
+  },
+
+  "isExtCmdReacts": {
+     "isGptOne": {
+
+       "isMain": {
+          "isBefore": "👽",
+          "isAfter": "🧠"
+       }
+     },
+
+     "isGptTwo": {
+     
+       "isMain": {
+          "isBefore": "👽",
+          "isAfter": "🧠"
+       }
+     }
+   }
+}
