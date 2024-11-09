@@ -1,0 +1,65 @@
+{
+  "isDevelopers": {
+    "developer": {
+     "name": "Isuru Chamika",
+     "number": "94766632281",
+     "react": "🥷"
+    },
+    "coreDeveloper": {
+     "name": "Tharusha Kavindya",
+     "number": "94785635619",
+     "react": "✨"
+    },
+    "supporters": {
+     "numbers": "94760126983",
+     "react": "🤵‍♂️"
+    }
+  },
+
+  "isBannedUsers": {
+    "mainSystem": {
+     "numbers": "94787843032,94723672999",
+     "react": "❌"
+    }
+  },
+
+  "isBotStatus": {
+    "reacts": {
+     "isOwnerReact": "true",
+     "isDevReact": "true",
+     "isBanUserReact": "true",
+     "isOtherReact": "true"
+    },
+    "antiData": {
+     "isAntiBot": "true",
+     "isBotDetect": "true",
+     "isAntiLink": "true",
+     "isAntiBad": "true"
+    },
+    "others": {
+     "isStatusSeen": "true",
+     "isMsgRead": "true",
+     "isAImode": "true"
+    }
+  },
+
+  "isBotInfo": {
+    "lBotFooter": "*𝙼𝙰𝙲𝚃𝚁𝙸𝚇-𝙼𝙳* ```| 𝚆A 𝚄S𝙴𝚁 𝙱O𝚃 ㋡```",
+    "sBotFooter": "*𝙼𝙰𝙲𝚃𝚁𝙸𝚇-𝙼𝙳* ```| 𝚆A 𝚄S𝙴𝚁 𝙱O𝚃```",
+
+    "mTitle": "M A C T R I X - M D",
+    "mBody": "ᴡ ʜ ᴀ ᴛ ꜱ ᴀ ᴘ ᴘ  ᴜ ꜱ ᴇ ʀ  ʙ ᴏ ᴛ",
+
+    "songHeader": "```🎧 MACTRIX-MD SONG DL 🎧```",
+    "apkHeader": "```📦 MACTRIX-MD APK DL 📦```",
+    "videoHeader": "```🎧 MACTRIX-MD VIDEO DL 🎧```",
+    "fbHeader": "```🎧 MACTRIX-MD FB DL 🎧```",
+    "ttHeader": "```🎧 MACTRIX-MD TT DL 🎧```",
+    "gdHeader": "```🎧 MACTRIX-MD GDIVE DL 🎧```",
+    "mfHeader": "```🎧 MACTRIX-MD MFIRE DL 🎧```"
+
+
+  }
+}
+
+
