@@ -38,6 +38,9 @@
         "numReplyMsg_SI": "`කරුණාකර පහත බොත්තම ක්ලික් කර ඔබට අවශ්‍ය වර්ගය තෝරන්න.`",
 
         "notFoundMsg_EN": "Can't find enything!!",
-        "notFoundMsg_SI": "එඋශ්ශ්ශ්ශ්ශ්ශ්"
+        "notFoundMsg_SI": "එඋශ්ශ්ශ්ශ්ශ්ශ්",
+
+        "ownerOnly_EN": "owner only cmd",
+        "ownerOnly_SI": "owner only cmd"
   }
 }
