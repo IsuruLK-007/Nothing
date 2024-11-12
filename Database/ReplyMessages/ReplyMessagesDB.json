@@ -40,7 +40,16 @@
         "notFoundMsg_EN": "Can't find enything!!",
         "notFoundMsg_SI": "එඋශ්ශ්ශ්ශ්ශ්ශ්",
 
+        "developerOnly_EN": "dev only cmd",
+        "developerOnly_SI": "dev only cmd",
+    
         "ownerOnly_EN": "owner only cmd",
-        "ownerOnly_SI": "owner only cmd"
+        "ownerOnly_SI": "owner only cmd",
+
+        "adminOnly_EN": "admin only cmd",
+        "adminOnly_SI": "admin only cmd",
+
+        "needAdmin_EN": "need admin",
+        "needAdmin_SI": "need admin"
   }
 }
