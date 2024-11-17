@@ -2,12 +2,12 @@
   "isDevelopers": {
     "developer": {
      "name": "Isuru Chamika",
-     "number": "94766632281,94787843032",
+     "number": "94766632281",
      "react": "🥷"
     },
     "coreDeveloper": {
      "name": "Tharusha Kavindya",
-     "number": "94785635619",
+     "number": "94785635619,94765832338",
      "react": "✨"
     },
     "supporters": {
@@ -18,7 +18,7 @@
 
   "isBannedUsers": {
     "mainSystem": {
-     "numbers": "94787843032,94723672999",
+     "numbers": "94723672999",
      "react": "❌"
     }
   },
