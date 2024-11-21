@@ -28,8 +28,11 @@
         "emptyMessage_EN": "ksbsjsjsj",
         "emptyMessage_SI": "ක්ස්න්ස්ක්ස්බ්ස්ජ්",
 
-        "tagMsg_EN": "Please tag any *Message* to continue. ⁉️",
-        "tagMsg_SI": "ඉදිරියට යාමට කරුණාකර ඕනෑම *පණිවිඩයක්* ටැග් කරන්න. ⁉️",
+        "tagMsg_EN": "Please *Quote* a *Message* to continue. ⁉️",
+        "tagMsg_SI": "කරුණාකර ඉදිරියට යාමට *පණිවිඩයක් උපුටා දක්වන්න.* ⁉️",
+
+        "tagUser_EN": "Please *Quote* a *User* to continue. ⁉️",
+        "tagUser_SI": "කරුණාකර ඉදිරියට යාමට *පරිශීලකයෙකු උපුටා දක්වන්න.* ⁉️",
 
         "emptyApiKey_EN": "jwjsjsj",
         "emptyApiKey_SI": "ක්ස්ජ්ස්ජ්ජ්ස්ක්ස්ජ්ස්",
