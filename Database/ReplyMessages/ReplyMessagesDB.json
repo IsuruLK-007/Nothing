@@ -1,75 +1,61 @@
-ewogICJCb3QtTmFtZSI6ICJNQUNUUklYLU1EIiwKICAiYm90VmVyc2lvbiI6ICIxLjAuMCIsCiAg
-IkJvdC1EZXZlbG9wZXIiOiAiSXN1cnUgQ2hhbWlrYSIsCgogICJyZXBseU1lc3NhZ2VzREIiOiB7
-CiAgICAgICAgImRpc2FibGVDbWRfRU4iOiAiVGhpcyBjb21tYW5kIGhhcyBiZWVuIGRpc2FibGVk
-IGJ5IHRoZSAqRGV2ZWxvcGVyKiBkdWUgdG8gc29tZSBidWcuIPCfmYLwn5KUIiwKICAgICAgICAi
-ZGlzYWJsZUNtZF9TSSI6ICLgtprgt5Lgt4Pgt5Lgtrrgtrjgt4og4Lav4Led4LeC4La64Laa4LeK
-IOC3hOC3muC2reC3lOC3gOC3meC2seC3iiDgtrjgt5ngtrgg4LeA4LeS4Law4LeP4Lax4La6ICrg
-t4PgtoLgt4Dgtrvgt4rgtrDgtprgtrrgt48qIOC3gOC3kuC3g+C3kuC2seC3iiDgtoXgtprgt4ri
-gI3gtrvgt5Pgtrog4Laa4La7IOC2h+C2rS4g8J+ZgvCfkpQiLAoKICAgICAgICAiZW1wdHlVcmxf
-RU4iOiAiUGxlYXNlIGVudGVyIGEgKkxpbmsqIHRvIGNvbnRpbnVlLiDigYnvuI8iLAogICAgICAg
-ICJlbXB0eVVybF9TSSI6ICLgtprgtrvgt5Tgtqvgt4/gtprgtrsg4LaJ4Lav4LeS4La74LeS4La6
-4LanIOC2uuC3j+C2uOC2pyAq4LeD4La24LeQ4Laz4LeS4La64Laa4LeKKiDgtofgtq3gt5Tgt4Xg
-tq3gt4og4Laa4La74Lax4LeK4LaxLiDigYnvuI8iLAoKICAgICAgICAiZW1wdHlRdWVyeV9FTiI6
-ICJQbGVhc2UgZW50ZXIgYSBhbnkgKlF1ZXJ5KiB0byBjb250aW51ZS4g4oGJ77iPIiwKICAgICAg
-ICAiZW1wdHlRdWVyeV9TSSI6ICLgtprgtrvgt5Tgtqvgt4/gtprgtrsg4LaJ4Lav4LeS4La74LeS
-4La64LanIOC2uuC3j+C2uOC2pyDgtpXgtrHgt5HgtrggKuC3gOC3kuC2uOC3g+C3lOC2uOC2muC3
-iiog4LaH4Lat4LeU4LeF4Lat4LeKIOC2muC2u+C2seC3iuC2sS4g4oGJ77iPIiwKCiAgICAgICAg
-ImludmFsaWRVcmxfRU4iOiAiVGhlICpMaW5rKiB5b3UgZW50ZXJlZCBpcyAqSW52YWxpZCohIFBs
-ZWFzZSBlbnRlciAqVmFsaWQgTGluayogdG8gY29udGludWUuIOKdl/CfpJUiLAogICAgICAgICJp
-bnZhbGlkVXJsX1NJIjogIuC2lOC2tiDgtofgtq3gt5Tgt4Xgt5Tgtq3gt4og4Laa4LeFICrgt4Pg
-trbgt5DgtrPgt5Lgtrog4LeA4La94LaC4Lac4LeUIOC2seC3kOC2rSohIOC2ieC2r+C3kuC2u+C3
-kuC2uuC2pyDgtrrgt4/gtrjgtqcg4Laa4La74LeU4Lar4LeP4Laa4La7ICrgt4Dgtr3gtoLgtpzg
-t5Qg4LeD4La24LeQ4Laz4LeS4La64Laa4LeKKiDgtofgtq3gt5Tgt4Xgtq3gt4og4Laa4La74Lax
-4LeK4LaxLiDinZfwn6SVIiwKCiAgICAgICAgImVtcHR5UmVzdWx0X0VOIjogIkFueSByZXN1bHQg
-Kk5vdCBGb3VuZC4qIPCfmJAiLAogICAgICAgICJlbXB0eVJlc3VsdF9TSSI6ICLgtprgt5Lgt4Pg
-t5LgtrPgt5Qg4La04LeK4oCN4La74Lat4LeS4La14La94La64Laa4LeKICrgt4Tgtrjgt5Qg4Lax
-4Lec4LeA4LeT4La6Liog8J+YkCIsCgogICAgICAgICJ0YWdJbWdfRU4iOiAiUGxlYXNlIHRhZyBh
-bnkgKkltYWdlKiB0byBjb250aW51ZS4g4oGJ77iPIiwKICAgICAgICAidGFnSW1nX1NJIjogIuC2
-muC2u+C3lOC2q+C3j+C2muC2uyDgtongtq/gt5Lgtrvgt5Lgtrrgtqcg4La64LeP4La44LanIOC2
-leC2seC3keC2uCAq4La74LeW4La04La64Laa4LeKKiDgtqfgt5Dgtpzgt4og4Laa4La74Lax4LeK
-4LaxLiDigYnvuI8iLAoKICAgICAgICAiZW1wdHlJbWdfRU4iOiAianNqZGlzaHNqc2pzIiwKICAg
-ICAgICAiZW1wdHlJbWdfU0kiOiAi4Lap4LeS4Lap4LeS4Lav4LeK4Lap4LeK4Lai4LeK4Lav4LeK
-4Lap4LeKIiwKCiAgICAgICAgImVtcHR5TWVzc2FnZV9FTiI6ICJrc2JzanNqc2oiLAogICAgICAg
-ICJlbXB0eU1lc3NhZ2VfU0kiOiAi4Laa4LeK4LeD4LeK4Lax4LeK4LeD4LeK4Laa4LeK4LeD4LeK
-4La24LeK4LeD4LeK4Lai4LeKIiwKCiAgICAgICAgInRhZ01zZ19FTiI6ICJQbGVhc2UgKlF1b3Rl
-KiBhICpNZXNzYWdlKiB0byBjb250aW51ZS4g4oGJ77iPIiwKICAgICAgICAidGFnTXNnX1NJIjog
-IuC2muC2u+C3lOC2q+C3j+C2muC2uyDgtongtq/gt5Lgtrvgt5Lgtrrgtqcg4La64LeP4La44Lan
-ICrgtrTgtqvgt5Lgt4Dgt5Lgtqngtrrgtprgt4og4LaL4La04LeU4Lan4LePIOC2r+C2muC3iuC3
-gOC2seC3iuC2sS4qIOKBie+4jyIsCgogICAgICAgICJ0YWdVc2VyX0VOIjogIlBsZWFzZSAqUXVv
-dGUqIGEgKlVzZXIqIHRvIGNvbnRpbnVlLiDigYnvuI8iLAogICAgICAgICJ0YWdVc2VyX1NJIjog
-IuC2muC2u+C3lOC2q+C3j+C2muC2uyDgtongtq/gt5Lgtrvgt5Lgtrrgtqcg4La64LeP4La44Lan
-ICrgtrTgtrvgt5Lgt4Hgt5Pgtr3gtprgtrrgt5ngtprgt5Qg4LaL4La04LeU4Lan4LePIOC2r+C2
-muC3iuC3gOC2seC3iuC2sS4qIOKBie+4jyIsCgogICAgICAgICJlbXB0eUFwaUtleV9FTiI6ICJq
-d2pzanNqIiwKICAgICAgICAiZW1wdHlBcGlLZXlfU0kiOiAi4Laa4LeK4LeD4LeK4Lai4LeK4LeD
-4LeK4Lai4LeK4Lai4LeK4LeD4LeK4Laa4LeK4LeD4LeK4Lai4LeK4LeD4LeKIiwKCiAgICAgICAg
-Im51bVJlcGx5TXNnX0VOIjogImBQbGVhc2UgY2xpY2sgdGhlIGJ1dHRvbiBiZWxvdyBhbmQgc2Vs
-ZWN0IHRoZSB0eXBlIHlvdSB3YW50LmAiLAogICAgICAgICJudW1SZXBseU1zZ19TSSI6ICJg4Laa
-4La74LeU4Lar4LeP4Laa4La7IOC2tOC3hOC2rSDgtrbgt5zgtq3gt4rgtq3gtrgg4Laa4LeK4La9
-4LeS4Laa4LeKIOC2muC2uyDgtpTgtrbgtqcg4LaF4LeA4LeB4LeK4oCN4La6IOC3gOC2u+C3iuC2
-nOC2uiDgtq3gt53gtrvgtrHgt4rgtrEuYCIsCgogICAgICAgICJub3RGb3VuZE1zZ19FTiI6ICJD
-YW4ndCBmaW5kIGVueXRoaW5nISEiLAogICAgICAgICJub3RGb3VuZE1zZ19TSSI6ICLgtpHgtovg
-t4Hgt4rgt4Hgt4rgt4Hgt4rgt4Hgt4rgt4Hgt4rgt4Hgt4oiLAoKICAgICAgICAiZGV2ZWxvcGVy
-T25seV9FTiI6ICJUaGlzIGlzICpEZXZlbG9wZXIqIG9ubHkgY29tbWFuZCBhbmQgWW91ICpDYW5u
-b3QqIHVzZSB0aGlzLiDwn5qr8J+RqOKAjfCflKciLAogICAgICAgICJkZXZlbG9wZXJPbmx5X1NJ
-IjogIuC2uOC3meC2uiAq4LeD4LaC4LeA4La74LeK4Law4Laa4La64LeP4LanKiDgtrTgtrjgtqvg
-tprgt4og4LeA4LaxIOC3gOC3kuC2sOC3j+C2seC2uuC2muC3iiDgt4DgtrEg4LaF4Lat4La7IOC2
-lOC2tuC2pyDgtrjgt5ngtrog4La34LeP4LeA4LeS4Lat4LePICrgtprgt4Ug4Lax4Lec4LeE4LeQ
-4LaaLiog8J+aq/CfkajigI3wn5SnIiwKICAgIAogICAgICAgICJvd25lck9ubHlfRU4iOiAiVGhp
-cyBpcyAqT3duZXIqIG9ubHkgY29tbWFuZCBhbmQgWW91ICpDYW5ub3QqIHVzZSB0aGlzLiDwn5qr
-8J+kteKAjeKZgu+4jyIsCiAgICAgICAgIm93bmVyT25seV9TSSI6ICLgtrjgt5ngtrogKuC3hOC3
-kuC2uOC3kuC2muC2u+C3lOC2pyog4La04La44Lar4Laa4LeKIOC3gOC2sSDgt4Dgt5LgtrDgt4/g
-trHgtrog4LeA4LaxIOC2heC2reC2uyDgtpTgtrbgtqcg4La44LeZ4La6IOC2t+C3j+C3gOC3kuC2
-reC3jyAq4Laa4LeFIOC2seC3nOC3hOC3kOC2mi4qIPCfmqvwn6S14oCN4pmC77iPIiwKCiAgICAg
-ICAgImFkbWluT25seV9FTiI6ICJZb3UgYXJlICpOb3QgQWRtaW4qIGluIHRoaXMgZ3JvdXAgdG8g
-dXNlIHRoaXMgY29tbWFuZC4g8J+luSIsCiAgICAgICAgImFkbWluT25seV9TSSI6ICLgtrjgt5ng
-trgg4LeA4LeS4Law4LeP4Lax4La6IOC2t+C3j+C3gOC3kuC2reC3jyDgtprgt5Lgtrvgt5Pgtrjg
-tqcg4LaU4La2IOC2uOC3meC2uCDgtprgtqvgt4rgtqngt4/gtrrgtrjgt5ogKuC2tOC2u+C3kuC2
-tOC3j+C2veC2muC2uuC3meC2muC3lCDgtrHgt5zgt4Dgt5ouKiDwn6W5IiwKCiAgICAgICAgImdy
-b3VwT25seV9FTiI6ICJUaGlzIGlzICpHcm91cCogb25seSBjb21tYW5kIHNvIHlvdSAqQ2Fubm90
-KiB1c2UgdGhpcyBjb21tYW5kIGluICpJbmJveC4qIPCfmqvwn6qAIiwKICAgICAgICAiZ3JvdXBP
-bmx5X1NJIjogIuC2uOC3meC2uiAq4LeD4La44LeW4LeEIOC3g+C2r+C3hOC3jyog4La04La44Lar
-4Laa4LeKIOC3gOC2sSDgt4Dgt5LgtrDgt4/gtrHgtrrgtprgt4og4La24LeQ4LeA4LeS4Lax4LeK
-IOC2lOC2tuC2pyDgtrjgt5ngtrgg4LeA4LeS4Law4LeP4Lax4La6ICrgtongtrHgt4rgtrbgt5zg
-t4Pgt4oqIOC2t+C3j+C3gOC3kuC2reC3jyAq4Laa4LeFIOC2seC3nOC3hOC3kOC2mi4qIPCfmqvw
-n6qAIiwKCiAgICAgICAgIm5lZWRBZG1pbl9FTiI6ICJuZWVkIGFkbWluIiwKICAgICAgICAibmVl
-ZEFkbWluX1NJIjogIm5lZWQgYWRtaW4iCiAgfQp9
+{
+  "Bot-Name": "MACTRIX-MD",
+  "botVersion": "1.0.0",
+  "Bot-Developer": "Isuru Chamika",
+
+  "replyMessagesDB": {
+        "disableCmd_EN": "This command has been disabled by the *Developer* due to some bug. 🙂💔",
+        "disableCmd_SI": "කිසියම් දෝෂයක් හේතුවෙන් මෙම විධානය *සංවර්ධකයා* විසින් අක්‍රීය කර ඇත. 🙂💔",
+
+        "emptyUrl_EN": "Please enter a *Link* to continue. ⁉️",
+        "emptyUrl_SI": "කරුණාකර ඉදිරියට යාමට *සබැඳියක්* ඇතුළත් කරන්න. ⁉️",
+
+        "emptyQuery_EN": "Please enter a any *Query* to continue. ⁉️",
+        "emptyQuery_SI": "කරුණාකර ඉදිරියට යාමට ඕනෑම *විමසුමක්* ඇතුළත් කරන්න. ⁉️",
+
+        "invalidUrl_EN": "The *Link* you entered is *Invalid*! Please enter *Valid Link* to continue. ❗🤕",
+        "invalidUrl_SI": "ඔබ ඇතුළුත් කළ *සබැඳිය වලංගු නැත*! ඉදිරියට යාමට කරුණාකර *වලංගු සබැඳියක්* ඇතුළත් කරන්න. ❗🤕",
+
+        "emptyResult_EN": "Any result *Not Found.* 😐",
+        "emptyResult_SI": "කිසිඳු ප්‍රතිඵලයක් *හමු නොවීය.* 😐",
+
+        "tagImg_EN": "Please tag any *Image* to continue. ⁉️",
+        "tagImg_SI": "කරුණාකර ඉදිරියට යාමට ඕනෑම *රූපයක්* ටැග් කරන්න. ⁉️",
+
+        "emptyImg_EN": "jsjdishsjsjs",
+        "emptyImg_SI": "ඩිඩිද්ඩ්ජ්ද්ඩ්",
+
+        "emptyMessage_EN": "ksbsjsjsj",
+        "emptyMessage_SI": "ක්ස්න්ස්ක්ස්බ්ස්ජ්",
+
+        "tagMsg_EN": "Please *Quote* a *Message* to continue. ⁉️",
+        "tagMsg_SI": "කරුණාකර ඉදිරියට යාමට *පණිවිඩයක් උපුටා දක්වන්න.* ⁉️",
+
+        "tagUser_EN": "Please *Quote* a *User* to continue. ⁉️",
+        "tagUser_SI": "කරුණාකර ඉදිරියට යාමට *පරිශීලකයෙකු උපුටා දක්වන්න.* ⁉️",
+
+        "emptyApiKey_EN": "jwjsjsj",
+        "emptyApiKey_SI": "ක්ස්ජ්ස්ජ්ජ්ස්ක්ස්ජ්ස්",
+
+        "numReplyMsg_EN": "`Please click the button below and select the type you want.`",
+        "numReplyMsg_SI": "`කරුණාකර පහත බොත්තම ක්ලික් කර ඔබට අවශ්‍ය වර්ගය තෝරන්න.`",
+
+        "notFoundMsg_EN": "Can't find enything!!",
+        "notFoundMsg_SI": "එඋශ්ශ්ශ්ශ්ශ්ශ්",
+
+        "developerOnly_EN": "This is *Developer* only command and You *Cannot* use this. 🚫👨‍🔧",
+        "developerOnly_SI": "මෙය *සංවර්ධකයාට* පමණක් වන විධානයක් වන අතර ඔබට මෙය භාවිතා *කළ නොහැක.* 🚫👨‍🔧",
+    
+        "ownerOnly_EN": "This is *Owner* only command and You *Cannot* use this. 🚫🤵‍♂️",
+        "ownerOnly_SI": "මෙය *හිමිකරුට* පමණක් වන විධානය වන අතර ඔබට මෙය භාවිතා *කළ නොහැක.* 🚫🤵‍♂️",
+
+        "adminOnly_EN": "You are *Not Admin* in this group to use this command. 🥹",
+        "adminOnly_SI": "මෙම විධානය භාවිතා කිරීමට ඔබ මෙම කණ්ඩායමේ *පරිපාලකයෙකු නොවේ.* 🥹",
+
+        "groupOnly_EN": "This is *Group* only command so you *Cannot* use this command in *Inbox.* 🚫🪀",
+        "groupOnly_SI": "මෙය *සමූහ සදහා* පමණක් වන විධානයක් බැවින් ඔබට මෙම විධානය *ඉන්බොස්* භාවිතා *කළ නොහැක.* 🚫🪀",
+
+        "needAdmin_EN": "need admin",
+        "needAdmin_SI": "need admin"
+  }
+}
