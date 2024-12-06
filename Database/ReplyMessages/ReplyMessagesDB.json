@@ -58,7 +58,7 @@
         "adminOnly_EN": "*You are Not an Admin in this group to use this command. 🥹*",
         "adminOnly_SI": "*මෙම විධානය භාවිතා කිරීමට ඔබ මෙම සමූහයේ ඇඩ්මින් කෙනෙකු නොවේ. 🥹*",
 
-        "groupOnly_EN": "*This is Group only command so you Cannot use this command in *Inbox. 🚫🪀*",
+        "groupOnly_EN": "*This is Group only command so you Cannot use this command in Inbox. 🚫🪀*",
         "groupOnly_SI": "*මෙය සමූහ සදහා පමණක් වන විධානයක් බැවින් ඔබට මෙම විධානය ඉන්බොස් භාවිතා කළ නොහැක. 🚫🪀*",
 
         "needAdmin_EN": "*I am Not Allowed to do that. Please Give me an Admin Parameter first. 🥲❗*",
